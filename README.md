@@ -128,3 +128,8 @@ wheel                     0.36.2             pyhd3eb1b0_0
 widgetsnbextension        3.5.1                    pypi_0    pypi
 wincertstore              0.2              py39h2bbff1b_0
 zlib                      1.2.11               h62dcd97_4
+
+
+##Run!
+
+(streamlit) C:\Users\letic\Documents\Python_projects>streamlit run grisgrauDataScipy.py
