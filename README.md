@@ -23,20 +23,33 @@ Or
 
 `>conda list`
 
-Name                      Version                   Build  Channel
-altair                    4.1.0                    pypi_0    pypi
-argon2-cffi               20.1.0                   pypi_0    pypi
-astor                     0.8.1                    pypi_0    pypi
-async-generator           1.10                     pypi_0    pypi
-attrs                     20.3.0                   pypi_0    pypi
-backcall                  0.2.0                    pypi_0    pypi
-base58                    2.0.1                    pypi_0    pypi
-bleach                    3.2.1                    pypi_0    pypi
-blinker                   1.4                      pypi_0    pypi
-ca-certificates           2020.12.8            haa95532_0
-cachetools                4.2.0                    pypi_0    pypi
-certifi                   2020.12.5        py39haa95532_0
-cffi                      1.14.4                   pypi_0    pypi
+Name |                     Version |                  Build | Channel &nbsp;
+
+altair |                   4.1.0 |                   pypi_0 |   pypi &nbsp;
+
+argon2-cffi               20.1.0 |                  pypi_0 |   pypi &nbsp;
+
+astor |                    0.8.1 |                   pypi_0 |   pypi &nbsp;
+
+async-generator |          1.10 |                    pypi_0 |   pypi &nbsp;
+
+attrs |                    20.3.0                   pypi_0 |  pypi &nbsp;
+
+backcall |                 0.2.0                    pypi_0 |   pypi &nbsp;
+
+base58 |                   2.0.1                    pypi_0 |   pypi &nbsp;
+
+bleach |                   3.2.1                    pypi_0 |   pypi &nbsp;
+
+blinker |                  1.4                      pypi_0 |   pypi &nbsp;
+
+ca-certificates  |         2020.12.8 |          haa95532_0  &nbsp;
+
+cachetools |               4.2.0 |                   pypi_0 |  pypi &nbsp;
+
+certifi |                  2020.12.5  |      py39haa95532_0 &nbsp;
+
+cffi  |                    1.14.4                   pypi_0    pypi
 chardet                   4.0.0                    pypi_0    pypi
 click                     7.1.2                    pypi_0    pypi
 colorama                  0.4.4                    pypi_0    pypi
