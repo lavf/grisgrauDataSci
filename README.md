@@ -27,21 +27,21 @@ Name |                     Version |                  Build | Channel &nbsp;
 
 altair |                   4.1.0 |                   pypi_0 |   pypi &nbsp;
 
-argon2-cffi               20.1.0 |                  pypi_0 |   pypi &nbsp;
+argon2-cffi |              20.1.0 |                  pypi_0 |   pypi &nbsp;
 
 astor |                    0.8.1 |                   pypi_0 |   pypi &nbsp;
 
 async-generator |          1.10 |                    pypi_0 |   pypi &nbsp;
 
-attrs |                    20.3.0                   pypi_0 |  pypi &nbsp;
+attrs |                    20.3.0 |                  pypi_0 |  pypi &nbsp;
 
-backcall |                 0.2.0                    pypi_0 |   pypi &nbsp;
+backcall |                 0.2.0 |                   pypi_0 |   pypi &nbsp;
 
-base58 |                   2.0.1                    pypi_0 |   pypi &nbsp;
+base58 |                   2.0.1 |                   pypi_0 |   pypi &nbsp;
 
-bleach |                   3.2.1                    pypi_0 |   pypi &nbsp;
+bleach |                   3.2.1 |                   pypi_0 |   pypi &nbsp;
 
-blinker |                  1.4                      pypi_0 |   pypi &nbsp;
+blinker |                  1.4 |                     pypi_0 |   pypi &nbsp;
 
 ca-certificates  |         2020.12.8 |          haa95532_0 | &nbsp;
 
@@ -50,33 +50,61 @@ cachetools |               4.2.0 |                   pypi_0 |  pypi &nbsp;
 certifi |                  2020.12.5  |      py39haa95532_0 | &nbsp;
 
 cffi  |                    1.14.4 |                  pypi_0 |    pypi &nbsp;
-chardet |                  4.0.0 |                   pypi_0|    pypi &nbsp;
-click |                    7.1.2 |                   pypi_0|    pypi &nbsp;
-colorama |                 0.4.4 |                   pypi_0|    pypi &nbsp;
-cycler |                   0.10.0 |                  pypi_0|    pypi &nbsp;
-decorator |                4.4.2 |                   pypi_0|    pypi &nbsp;
-defusedxml |               0.6.0 |                   pypi_0|    pypi &nbsp;
-entrypoints |              0.3 |                     pypi_0|    pypi &nbsp;
-gitdb |                    4.0.5 |                   pypi_0|    pypi &nbsp;
-gitpython |                3.1.11 |                  pypi_0|    pypi &nbsp;
-idna |                     2.10 |                    pypi_0|    pypi &nbsp;
-ipykernel |                5.4.2 |                   pypi_0|    pypi &nbsp;
-ipython |                  7.19.0 |                  pypi_0|    pypi &nbsp;
-ipython-genutils |         0.2.0 |                   pypi_0|    pypi &nbsp;
-ipywidgets |               7.6.2 |                   pypi_0|    pypi &nbsp;
-jedi |                     0.18.0 |                  pypi_0|    pypi &nbsp;
-jinja2 |                   2.11.2 |                  pypi_0|    pypi &nbsp;
-joblib |                   1.0.0 |                   pypi_0|    pypi &nbsp;
-jsonschema |               3.2.0 |                   pypi_0|    pypi &nbsp;
-jupyter-client |           6.1.7 |                   pypi_0|    pypi &nbsp;
-jupyter-core |             4.7.0 |                   pypi_0|    pypi &nbsp;
-jupyterlab-pygments |      0.1.2 |                   pypi_0|    pypi &nbsp;
-jupyterlab-widgets |       1.0.0 |                   pypi_0|    pypi &nbsp;
-kiwisolver |               1.3.1 |                   pypi_0|    pypi &nbsp;
-markupsafe |               1.1.1 |                   pypi_0|    pypi &nbsp;
-matplotlib |               3.3.3 |                   pypi_0|    pypi &nbsp;
-mistune |                  0.8.4 |                   pypi_0|    pypi &nbsp;
-nbclient |                 0.5.1 |                   pypi_0|    pypi &nbsp;
+
+chardet |                  4.0.0 |                   pypi_0 |    pypi &nbsp;
+
+click |                    7.1.2 |                   pypi_0 |    pypi &nbsp;
+
+colorama |                 0.4.4 |                   pypi_0 |    pypi &nbsp;
+
+cycler |                   0.10.0 |                  pypi_0 |    pypi &nbsp;
+
+decorator |                4.4.2 |                   pypi_0 |    pypi &nbsp;
+
+defusedxml |               0.6.0 |                   pypi_0 |    pypi &nbsp;
+
+entrypoints |              0.3 |                     pypi_0 |    pypi &nbsp;
+
+gitdb |                    4.0.5 |                   pypi_0 |    pypi &nbsp;
+
+gitpython |                3.1.11 |                  pypi_0 |    pypi &nbsp;
+
+idna |                     2.10 |                    pypi_0 |    pypi &nbsp;
+
+ipykernel |                5.4.2 |                   pypi_0 |    pypi &nbsp;
+
+ipython |                  7.19.0 |                  pypi_0 |    pypi &nbsp;
+
+ipython-genutils |         0.2.0 |                   pypi_0 |    pypi &nbsp;
+
+ipywidgets |               7.6.2 |                   pypi_0 |    pypi &nbsp;
+
+jedi |                     0.18.0 |                  pypi_0 |    pypi &nbsp;
+
+jinja2 |                   2.11.2 |                  pypi_0 |    pypi &nbsp;
+
+joblib |                   1.0.0 |                   pypi_0 |    pypi &nbsp;
+
+jsonschema |               3.2.0 |                   pypi_0 |    pypi &nbsp;
+
+jupyter-client |           6.1.7 |                   pypi_0 |    pypi &nbsp;
+
+jupyter-core |             4.7.0 |                   pypi_0 |    pypi &nbsp;
+
+jupyterlab-pygments |      0.1.2 |                   pypi_0 |    pypi &nbsp;
+
+jupyterlab-widgets |       1.0.0 |                   pypi_0 |    pypi &nbsp;
+
+kiwisolver |               1.3.1 |                   pypi_0 |    pypi &nbsp;
+
+markupsafe |               1.1.1 |                   pypi_0 |    pypi &nbsp;
+
+matplotlib |               3.3.3 |                   pypi_0 |    pypi &nbsp;
+
+mistune |                  0.8.4 |                   pypi_0 |    pypi &nbsp;
+
+nbclient |                 0.5.1 |                   pypi_0 |    pypi &nbsp;
+
 nbconvert                 6.0.7                    pypi_0    pypi
 nbformat                  5.0.8                    pypi_0    pypi
 nest-asyncio              1.4.3                    pypi_0    pypi
