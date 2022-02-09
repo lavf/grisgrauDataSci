@@ -27,7 +27,7 @@ Or
 
 <h5>
 Name |                     Version |                  Build | Channel &nbsp;
-  
+  &nbsp;
   
 altair |                   4.1.0 |                   pypi_0 |   pypi &nbsp;
 
