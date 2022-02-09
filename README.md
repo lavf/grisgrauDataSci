@@ -4,15 +4,15 @@
 
 ## Conda prompt
 
-(base)
+(base) &nbsp;
 `>conda activate streamlit`
 
-(Environment name: streamlit)
+(Environment name: streamlit) &nbsp;
 `>conda run grisgrau_rating.py`
 
 Or
 
-(Environment name: streamlit)
+(Environment name: streamlit) &nbsp;
 `>conda run grisgrau_seaborn.py`
 
 ### Conda environments:
@@ -43,40 +43,40 @@ bleach |                   3.2.1                    pypi_0 |   pypi &nbsp;
 
 blinker |                  1.4                      pypi_0 |   pypi &nbsp;
 
-ca-certificates  |         2020.12.8 |          haa95532_0  &nbsp;
+ca-certificates  |         2020.12.8 |          haa95532_0 | &nbsp;
 
 cachetools |               4.2.0 |                   pypi_0 |  pypi &nbsp;
 
-certifi |                  2020.12.5  |      py39haa95532_0 &nbsp;
+certifi |                  2020.12.5  |      py39haa95532_0 | &nbsp;
 
-cffi  |                    1.14.4                   pypi_0    pypi
-chardet                   4.0.0                    pypi_0    pypi
-click                     7.1.2                    pypi_0    pypi
-colorama                  0.4.4                    pypi_0    pypi
-cycler                    0.10.0                   pypi_0    pypi
-decorator                 4.4.2                    pypi_0    pypi
-defusedxml                0.6.0                    pypi_0    pypi
-entrypoints               0.3                      pypi_0    pypi
-gitdb                     4.0.5                    pypi_0    pypi
-gitpython                 3.1.11                   pypi_0    pypi
-idna                      2.10                     pypi_0    pypi
-ipykernel                 5.4.2                    pypi_0    pypi
-ipython                   7.19.0                   pypi_0    pypi
-ipython-genutils          0.2.0                    pypi_0    pypi
-ipywidgets                7.6.2                    pypi_0    pypi
-jedi                      0.18.0                   pypi_0    pypi
-jinja2                    2.11.2                   pypi_0    pypi
-joblib                    1.0.0                    pypi_0    pypi
-jsonschema                3.2.0                    pypi_0    pypi
-jupyter-client            6.1.7                    pypi_0    pypi
-jupyter-core              4.7.0                    pypi_0    pypi
-jupyterlab-pygments       0.1.2                    pypi_0    pypi
-jupyterlab-widgets        1.0.0                    pypi_0    pypi
-kiwisolver                1.3.1                    pypi_0    pypi
-markupsafe                1.1.1                    pypi_0    pypi
-matplotlib                3.3.3                    pypi_0    pypi
-mistune                   0.8.4                    pypi_0    pypi
-nbclient                  0.5.1                    pypi_0    pypi
+cffi  |                    1.14.4 |                  pypi_0 |    pypi &nbsp;
+chardet |                  4.0.0 |                   pypi_0|    pypi &nbsp;
+click |                    7.1.2 |                   pypi_0|    pypi &nbsp;
+colorama |                 0.4.4 |                   pypi_0|    pypi &nbsp;
+cycler |                   0.10.0 |                  pypi_0|    pypi &nbsp;
+decorator |                4.4.2 |                   pypi_0|    pypi &nbsp;
+defusedxml |               0.6.0 |                   pypi_0|    pypi &nbsp;
+entrypoints |              0.3 |                     pypi_0|    pypi &nbsp;
+gitdb |                    4.0.5 |                   pypi_0|    pypi &nbsp;
+gitpython |                3.1.11 |                  pypi_0|    pypi &nbsp;
+idna |                     2.10 |                    pypi_0|    pypi &nbsp;
+ipykernel |                5.4.2 |                   pypi_0|    pypi &nbsp;
+ipython |                  7.19.0 |                  pypi_0|    pypi &nbsp;
+ipython-genutils |         0.2.0 |                   pypi_0|    pypi &nbsp;
+ipywidgets |               7.6.2 |                   pypi_0|    pypi &nbsp;
+jedi |                     0.18.0 |                  pypi_0|    pypi &nbsp;
+jinja2 |                   2.11.2 |                  pypi_0|    pypi &nbsp;
+joblib |                   1.0.0 |                   pypi_0|    pypi &nbsp;
+jsonschema |               3.2.0 |                   pypi_0|    pypi &nbsp;
+jupyter-client |           6.1.7 |                   pypi_0|    pypi &nbsp;
+jupyter-core |             4.7.0 |                   pypi_0|    pypi &nbsp;
+jupyterlab-pygments |      0.1.2 |                   pypi_0|    pypi &nbsp;
+jupyterlab-widgets |       1.0.0 |                   pypi_0|    pypi &nbsp;
+kiwisolver |               1.3.1 |                   pypi_0|    pypi &nbsp;
+markupsafe |               1.1.1 |                   pypi_0|    pypi &nbsp;
+matplotlib |               3.3.3 |                   pypi_0|    pypi &nbsp;
+mistune |                  0.8.4 |                   pypi_0|    pypi &nbsp;
+nbclient |                 0.5.1 |                   pypi_0|    pypi &nbsp;
 nbconvert                 6.0.7                    pypi_0    pypi
 nbformat                  5.0.8                    pypi_0    pypi
 nest-asyncio              1.4.3                    pypi_0    pypi
