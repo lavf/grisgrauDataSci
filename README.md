@@ -1,35 +1,29 @@
 # grisgrauDataSci
 
+## Setup
+
 ## Conda prompt
 
-(base) ...>conda activate streamlit2
+(base)
+`>conda activate streamlit`
 
-(streamlit2) ...\Documents\Python_projects>conda run grisgrau_rating.py
+(Environment name: streamlit)
+`>conda run grisgrau_rating.py`
 
+Or
 
-(streamlit2) ...\Documents\Python_projects>conda run grisgrau_seaborn.py
+(Environment name: streamlit)
+`>conda run grisgrau_seaborn.py`
 
+### Conda environments:
 
-(streamlit2) ...\Documents\Python_projects>conda env list
-# conda environments:
-#
-base                     ...\anaconda3
-flask_blog               ...\anaconda3\envs\flask_blog
-streamlit                ...\anaconda3\envs\streamlit
-streamlit2            *  ...\anaconda3\envs\streamlit2
+`>conda env list`
 
+### Packages in environment streamlit:
 
-(streamlit2) ...\Documents\Python_projects>conda activate streamlit
+`>conda list`
 
-(streamlit) ...\Documents\Python_projects>conda run grisgrau_seaborn.py
-
-
-(streamlit) ...\Documents\Python_projects>conda run grisgrau_seaborn.py
-
-(streamlit) ...\Documents\Python_projects>conda list
-# packages in environment at ...\anaconda3\envs\streamlit:
-#
-# Name                    Version                   Build  Channel
+Name                      Version                   Build  Channel
 altair                    4.1.0                    pypi_0    pypi
 argon2-cffi               20.1.0                   pypi_0    pypi
 astor                     0.8.1                    pypi_0    pypi
@@ -129,7 +123,3 @@ widgetsnbextension        3.5.1                    pypi_0    pypi
 wincertstore              0.2              py39h2bbff1b_0
 zlib                      1.2.11               h62dcd97_4
 
-
-##Run!
-
-(streamlit) C:\Users\letic\Documents\Python_projects>streamlit run grisgrauDataScipy.py
