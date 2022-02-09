@@ -4,7 +4,7 @@ Data visualization for 'grisGrau' Food Blog content. Possible development of a m
 
 ## Setup
 
-## Conda prompt
+### Conda prompt
 
 (base) &nbsp;
 `>conda activate streamlit`
